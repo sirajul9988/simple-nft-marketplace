@@ -1,0 +1,18 @@
+{
+  "name": "simple-nft-marketplace",
+  "version": "1.0.0",
+  "description": "Professional NFT Marketplace for ERC721",
+  "main": "NftMarketplace.sol",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "keywords": [
+    "nft",
+    "marketplace",
+    "ethereum",
+    "solidity",
+    "web3"
+  ],
+  "author": "Nazrul",
+  "license": "MIT"
+}
